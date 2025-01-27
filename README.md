@@ -1,7 +1,13 @@
 # Software-Testing-Automation-and-QA
 
-Project One: M6 Directory<br>
-Project Two: M7 Directory
+Project One: M6 Directory - Mobile Application<br>
+Project Two: M7 Directory<br><br>
+
+M1/ The Role of Testing in the SDLC<br>
+M2/ Dynamic and Static Testing<br>
+M3/ Includes ContactService classes for both the application and JUnit Testing<br>
+M4/ Includes TaskService classes for both the application and JUnit Testing<br>
+M5/ Includes AppointmentService classes for both the application and JUnit Testing<br>
 
 # How can I ensure that my code, program, or software is functional and secure?
 
