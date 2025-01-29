@@ -1,13 +1,24 @@
 # Software-Testing-Automation-and-QA
 
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+# Hello, and welcome to the Software Testing Automation and Quality Assurance Repository of my Academic Projects🖐️
+
+Applied testing strategies as part of the SDLC including requirements analysis, verification and validation, and quality management. Implemented unit testing (JUnit) and analyzed various testing approaches.
+
+# 📖 Table of Contents
+
 Project One: M6 Directory - Mobile Application<br>
 Project Two: M7 Directory<br><br>
 
-M1/ The Role of Testing in the SDLC<br>
-M2/ Dynamic and Static Testing<br>
-M3/ Includes ContactService classes for both the application and JUnit Testing<br>
-M4/ Includes TaskService classes for both the application and JUnit Testing<br>
-M5/ Includes AppointmentService classes for both the application and JUnit Testing<br>
+> 📌 M1/ The Role of Testing in the SDLC 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M1)<br>
+📌 M2/ Dynamic and Static Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M2)<br>
+📌 M3/ Includes ContactService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M3)<br>
+📌 M4/ Includes TaskService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M4)<br>
+📌 M5/ Includes AppointmentService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M5)<br>
+📌 M6/ Project One: Mobile Application with JUnit Tests. 100% Test Coverage for each tested class 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M6)<br>
+📌 M7/ Project Two: Summary and Reflection 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M7)<br>
 
 # How can I ensure that my code, program, or software is functional and secure?
 
