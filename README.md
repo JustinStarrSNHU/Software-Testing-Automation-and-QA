@@ -17,7 +17,7 @@ Project Two: M7 Directory<br><br>
 📌 M3/ Includes ContactService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M3)<br>
 📌 M4/ Includes TaskService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M4)<br>
 📌 M5/ Includes AppointmentService classes for both the application and JUnit Testing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M5)<br>
-📌 M6/ Project One: Mobile Application with JUnit Tests. 100% Test Coverage for each tested class (Expectation: 80%) 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M6)<br>
+📌 M6/ Project One: Mobile Application with JUnit Tests. 100% Test Coverage for each tested class (Expectation: 80% coverage) 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M6)<br>
 📌 M7/ Project Two: Summary and Reflection 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Software-Testing-Automation-and-QA/tree/main/M7)<br>
 
 # How can I ensure that my code, program, or software is functional and secure?
